@@ -1,7 +1,6 @@
 
 
-<!--
-**princHi, I'm Prince Amofa 👋
+I'm Prince Amofa
 
 Data Scientist · Machine Learning · Analytics — Accra, Ghana (GMT)
 
